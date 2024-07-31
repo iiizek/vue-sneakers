@@ -5,4 +5,4 @@
 - npm run dev
 - Open URL (localhost:5173)
 
-Best wishes to https://www.youtube.com/@ArchakovBlog❤️
+Best wishes to https://www.youtube.com/@ArchakovBlog ❤️
